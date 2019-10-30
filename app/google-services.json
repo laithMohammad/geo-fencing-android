@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "918724969842",
+    "firebase_url": "https://geofencapp.firebaseio.com",
+    "project_id": "geofencapp",
+    "storage_bucket": "geofencapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918724969842:android:a68529811fb3e00c18c9eb",
+        "android_client_info": {
+          "package_name": "com.example.geofencapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918724969842-sgbh01cb5pij3bqvhbs6bshtkov3pvqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geofencapp",
+            "certificate_hash": "7e422478955c92cb0aa97f968eb52d1dddaf35b4"
+          }
+        },
+        {
+          "client_id": "918724969842-pevgvdfo3eu39hga28hg9m3uh33vn33p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwxoqQO8O00VqklSeK1Zd9Nem_tPziLlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918724969842-pevgvdfo3eu39hga28hg9m3uh33vn33p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

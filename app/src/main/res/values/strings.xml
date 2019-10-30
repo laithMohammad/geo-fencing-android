@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">GeoFencApp</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+</resources>
